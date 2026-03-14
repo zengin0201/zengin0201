@@ -18,6 +18,7 @@ I'm a 16-year-old **Frontend Developer** and a 9th-grade student from Volgograd,
 * **Weather App:** Feature-rich app with Supabase integration and interactive maps.
 * **Olympiads:** Active participant in Russian School Olympiads (Informatics & Physics).
 * **Freelance:** My freelance profile https://kwork.ru/user/zengin
+* **English:** My english level is B1
 
 ### 🎯 Current Goals
 * 🏆 Preparing for the **T-Start Frontend Internship** at T-Bank.
