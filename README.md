@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Alexey Borodin! 👋
 
-<!--
-**zengin0201/zengin0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 16-year-old **Frontend Developer** and a 9th-grade student from Volgograd, Russia. I'm passionate about building clean, interactive, and performant user interfaces.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+* **Languages:** JavaScript (ES6+), HTML5, CSS3 (Advanced Animations, BEM).
+* **Frameworks & Libraries:** React, exploring TypeScript.
+* **Tools:** Git, Vite, Supabase.
+* **Education:** Currently studying at Yandex Practicum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects & Achievements
+* **Crypto Tracker:** A real-time dashboard built with React and CoinGecko API.
+* **Weather App:** Feature-rich app with Supabase integration and interactive maps.
+* **Olympiads:** Active participant in Russian School Olympiads (Informatics & Physics).
+
+### 🎯 Current Goals
+* 🏆 Preparing for the **T-Start Frontend Internship** at T-Bank.
+* 📚 Studying for **IELTS** (Target: 7.0) and **SAT** for US College applications.
+* ⚛️ Mastering **TypeScript** by this summer.
+
+### 📫 Connect with me
+Telegram : @Zengin07 | Email : dbr6247@gmail.com
