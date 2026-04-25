@@ -4,7 +4,7 @@ I'm a 16-year-old **Frontend Developer** and a 9th-grade student from Volgograd,
 
 ### 🛠 Tech Stack
 * **Languages:** JavaScript (ES6+), HTML5, CSS3 (Advanced Animations, BEM).
-* **Frameworks & Libraries:** React, exploring TypeScript.
+* **Frameworks & Libraries:** React, TypeScript
 * **Tools:** Git, Vite, Supabase.
 * **Education:** Currently studying at Yandex Practicum.
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
