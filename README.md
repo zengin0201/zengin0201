@@ -17,6 +17,7 @@ I'm a 16-year-old **Frontend Developer** and a 9th-grade student from Volgograd,
 * **Crypto Tracker:** A real-time dashboard built with React and CoinGecko API.
 * **Weather App:** Feature-rich app with Supabase integration and interactive maps.
 * **Olympiads:** Active participant in Russian School Olympiads (Informatics & Physics).
+* **Hackathon SUDO-PawMatch** Interactive pet adoption platform built with React, TypeScript, and Framer Motion. Features smooth Tinder-like swiping mechanics.
 * **Freelance:** My freelance profile https://kwork.ru/user/zengin
 * **English:** My english level is B1
 
