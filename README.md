@@ -19,7 +19,7 @@ I'm a 16-year-old **Frontend Developer** and a 9th-grade student from Volgograd,
 * **Olympiads:** Active participant in Russian School Olympiads (Informatics & Physics).
 * **Hackathon SUDO-PawMatch** Interactive pet adoption platform built with React, TypeScript, and Framer Motion. Features smooth Tinder-like swiping mechanics.
 * **Freelance:** My freelance profile https://kwork.ru/user/zengin
-* **Shelter Project: ** Shelter website with react & typescript for real shelter of animals in Volgograd
+* **Shelter Project:** Shelter website with react & typescript for real shelter of animals in Volgograd
 * **English:** My english level is B1
 
 ### 🎯 Current Goals
